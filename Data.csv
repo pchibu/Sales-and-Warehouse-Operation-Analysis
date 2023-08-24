@@ -1,0 +1,19 @@
+﻿Product,Warehouse,Product Status,Mode of Shipment,Buying Price,Selling Price,Product Count per Shipment,Unit Loading & Unloading Cost,Transport Cost per Shipment,Holding Cost
+Product IA,A,In store,Crates,65,76,12,12,40,4
+Product IA,B,In store,Crates,65,75,12,12,40,3
+Product IA,C,In store,Crates,65,74,12,12,40,4
+Product IB,A,In store,Crates,67,78,12,12,36,4
+Product IB,B,In store,Crates,67,75,12,12,36,3
+Product IB,C,In store,Crates,67,76,12,12,36,4
+Product JA,A,In store,Cartons,104,122,1,1,4,4
+Product JA,B,In store,Cartons,104,123,1,1,4,3
+Product JA,C,In store,Cartons,104,120,1,1,4,4
+Product JB,A,In store,Cartons,106,120,1,1,5,4
+Product JB,B,In store,Cartons,106,124,1,1,5,3
+Product JB,C,In store,Cartons,106,121,1,1,5,4
+Product KA,A,In store,Containers,615,731,500,500,1500,4
+Product KA,B,In store,Containers,615,735,500,500,1500,3
+Product KA,C,In store,Containers,615,732,500,500,1500,4
+Product KB,A,In store,Containers,612,730,500,500,1800,4
+Product KB,B,In store,Containers,612,732,500,500,1800,3
+Product KB,C,In store,Containers,612,734,500,500,1800,4
