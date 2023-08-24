@@ -15,7 +15,7 @@ Possible changes could occur in the following scenarios:
 
 Scenario 2: Due to the unexpected peak in demand of some products they run out-of-stock at the warehouses shown in the table below (in store: 1, out-of-stock: 0):
 
-<img width="600" alt="Proposed Network" src="https://github.com/pchibu/Sales-and-Warehouse-Operation-Analysis/assets/36771683/bc680c5d-8a8e-48d9-a116-d58a9bc6ff97">
+<img width="500" alt="Proposed Network" src="https://github.com/pchibu/Sales-and-Warehouse-Operation-Analysis/assets/36771683/bc680c5d-8a8e-48d9-a116-d58a9bc6ff97">
 
 
 Scenario 3: In addition to the above scenario there is a delay in supply of some products which causes an increase in demand for their substitutes.
