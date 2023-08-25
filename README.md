@@ -6,7 +6,7 @@ The selling prices of the products and warehouse holding costs are included in t
 <img width="700" alt="Proposed Network" src="https://github.com/pchibu/Sales-Warehouse-Operation-Analysis/assets/36771683/15fe729c-7961-416d-ab4d-e17e60793298">
 
 
-The inbound shipment of products is received from a single manufacturer #3LH# and these are the supply details:
+The inbound shipment of products is received from the manufacturer #3LH# and these are the supply details:
 
 <img width="600" alt="Proposed Network" src="https://github.com/pchibu/Sales-Warehouse-Operation-Analysis/assets/36771683/8a8efd7c-ef0e-4c9a-b576-d4562df49841">
 
