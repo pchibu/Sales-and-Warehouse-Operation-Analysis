@@ -1,8 +1,7 @@
 # Sales-and-Warehouse-Operation-Analysis
 A new strategy is being developed in the #GYD# involving 3 warehouses and the sales and distribution of 6 different products. This analysis is meant to show the sales prospects of warehouse products and the market’s impact on supply and demand with a goal to maximize profits considering the varying warehouse operational limits, product prices, and possible changes that could occur.
 
-The selling prices ($) of the products 
-and warehouse holding (login) costs ($) are included in the table below:
+The selling prices and warehouse holding (or login) costs ($) of the products are included in the table below:
 
 <img width="700" alt="Proposed Network" src="https://github.com/pchibu/Sales-Warehouse-Operation-Analysis/assets/36771683/15fe729c-7961-416d-ab4d-e17e60793298">
 
